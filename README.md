@@ -2,7 +2,7 @@
 <img src="figs/logo.png" width="180px">
 
 
-**An Easy-to-use Knowledge Editing Framework for Large Language Models.**
+**lifelong model editing via wise with pruning**
 
 ![](https://img.shields.io/badge/version-v0.0.1-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -1068,3 +1068,6 @@ We thank all the contributors to this project, more contributors are welcome!
 - [dive-into-llms](https://github.com/Lordog/dive-into-llms)
 
 🙌 We would like to express our heartfelt gratitude for the contribution of [FastEdit](https://github.com/hiyouga/FastEdit), [ROME](https://github.com/kmeng01/rome), [GRACE](https://github.com/Thartvigsen/GRACE), [MELO](https://github.com/ECNU-ICALK/MELO), [PMET](https://github.com/xpq-tech/PMET) to our project, as we have utilized portions of their source code in our project. Many thanks to all the colleagues in the community for submitting issues and providing technical support. Appreciation is also extended to all PR contributors, and issue feedback providers during the EasyEdit version iterations, especially ancelia06 for correcting the grammar of README.
+# Model-editing-wise-pruning
+# Model-editing-wise-pruning
+# Model-editing-wise-pruning
