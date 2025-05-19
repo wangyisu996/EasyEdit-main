@@ -2,7 +2,7 @@
 <img src="figs/logo.png" width="180px">
 
 
-**An Easy-to-use Knowledge Editing Framework for Large Language Models.**
+**lifelong model editing via wise with pruning**
 
 ![](https://img.shields.io/badge/version-v0.0.1-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
